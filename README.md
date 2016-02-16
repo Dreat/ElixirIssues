@@ -1,6 +1,6 @@
 # Issues
 
-**TODO: Add description**
+**Pet-project from "Programming Elixir" book**
 
 ## Installation
 
@@ -17,4 +17,3 @@ If [available in Hex](https://hex.pm/docs/publish), the package can be installed
         def application do
           [applications: [:issues]]
         end
-
