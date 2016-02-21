@@ -8,7 +8,7 @@ defmodule Issues.CLI do
   Generates last n issues in a github project
   """
 
-  def run(argv) do
+  def main(argv) do
     argv
     |> parse_args
     |> process
